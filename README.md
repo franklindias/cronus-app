@@ -1,2 +1,1 @@
-# CronusApp
-Só brincando... kkk
+### CronusApp
